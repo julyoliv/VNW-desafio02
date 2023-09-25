@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    background-color: #292929;
+    height: 70px;
+    padding-left: 30px;
+  }
+  
+  #logo {
+    width: 100px;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  li {
+    display: inline-block;
+    color: white;
+    margin-left: 20px;
+  }
+  
+  .clothes {
+    display: inline-block;
+    margin: 20px 10px 100px 0px;
+    padding-left: 20px;
+  }
+  
+  img {
+    width: 290px;
+    margin-right: 12px;
+  }
+  
+  .btn {
+    background-color: #94afc9;
+    font-size: 15px;
+    color: white;
+    margin: 10px 0px 10px 0px;
+    padding: 5px 127px 5px 127px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    display: flex;
+    align-items: center;
+    background-color: #4d5f70;
+    color: white;
+    height: 70px;
+    padding-left: 30px;
+  }
+  
+  label {
+    padding-left: 15px;
+  }
+  
+  #submit {
+    margin-left: 20px;
+    background-color: #a494c9;
+    font-size: 15px;
+    color: white;
+    padding: 10px 40px 10px 40px;
+    border: none;
+    cursor: pointer;
+  }
+  
